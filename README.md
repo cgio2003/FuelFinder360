@@ -40,4 +40,4 @@ python update_fuel_prices.py
 ```
 
 ## Contributing
-We welcome contributions to both the iOS app and the Python data processing scripts. Please refer to the CONTRIBUTING.md file for more details on how to contribute.
+We welcome contributions to both the iOS app and the Python data processing scripts. Please follow the standard GitHub pull request process to submit your contributions.

@@ -1,13 +1,22 @@
 # FuelFinder360
 
 ## Introduction
-FuelFinder360 is a comprehensive tool designed to ease the search for the most economical fueling options. By combining a Swift-developed iOS application with Python scripts for processing real-time data from CSV files, FuelFinder360 offers an unparalleled resource for drivers. Users can explore fuel prices, discover the cheapest or nearest gas stations, and contribute by updating prices, all within a seamless mobile experience. The backend Python scripts ensure the app's fuel price data remains current by parsing daily updated CSV files from authoritative sources, making FuelFinder360 a reliable companion for any driver looking to save on fuel.
+
+FuelFinder360 is a comprehensive tool designed to simplify the search for the most cost-effective fueling options. By integrating a Swift-developed iOS application with Python scripts for processing real-time data from CSV files, FuelFinder360 provides an unmatched resource for drivers. Users can explore fuel prices and find the cheapest or nearest gas stations seamlessly. The backend Python scripts ensure that the app's fuel price data remains up-to-date by parsing daily updated CSV files from authoritative sources, making FuelFinder360 a reliable companion for any driver looking to save on fuel.
 
 ## Features
-- **Up-to-Date Fuel Prices**: Access current fuel prices for various types at nearby stations.
-- **Station Locator**: Find gas stations based on price or proximity with comprehensive details.
-- **Community Updates**: Users can contribute by reporting the latest fuel prices.
-- **Data-Driven**: Utilizes Python scripts to parse and update fuel price data from CSV files.
+
+- **Up-to-Date Fuel Prices:** Access the latest fuel prices for various types at nearby stations.
+- **Station Locator:** Find gas stations based on price or proximity with detailed information.
+- **Trip Planning:** Plan your trip by entering your destination and starting location to receive the most efficient route along with convenient refueling stops.
+- **Expense Tracking:** Save and monitor your fuel expenses.
+- **Data-Driven:** Utilizes Python scripts to parse and update fuel price data from CSV files.
+
+## Coming Soon
+
+- **Favorite Stations Notifications:** Save your favorite stations and receive daily notifications about price changes.
+- **Fuel Price Graphs:** View graphs of fuel price trends to determine the best time to refuel your car.
+
 
 ## Technology Stack
 - **iOS Application**: Developed in Swift, utilizing UIKit and CoreLocation.

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>202.120.165.91</key>
+			<dict>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+				<key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSTemporaryExceptionMinimumTLSVersion</key>
+				<string>TLSv1.1</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSLocationWhenInUsageDescription</key>
+	<string>We need your location to find nearby fuel stations</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>API_KEY</key>
+		<string>AIzaSyC9CkKlp0t4-rLdsa4qaWklDhHUOEqenmc</string>
+		<key>BUNDLE_ID</key>
+		<string>giovannicastorina.FuelFinder360Test</string>
+		<key>GCM_SENDER_ID</key>
+		<string>886883082553</string>
+		<key>GOOGLE_APP_ID</key>
+		<string>1:886883082553:ios:df2c03f27d90041f8648e8</string>
+		<key>IS_ADS_ENABLED</key>
+		<false/>
+		<key>IS_ANALYTICS_ENABLED</key>
+		<false/>
+		<key>IS_APPINVITE_ENABLED</key>
+		<true/>
+		<key>IS_GCM_ENABLED</key>
+		<true/>
+		<key>IS_SIGNIN_ENABLED</key>
+		<true/>
+		<key>PLIST_VERSION</key>
+		<string>1</string>
+		<key>PROJECT_ID</key>
+		<string>fuelfinder360</string>
+		<key>STORAGE_BUCKET</key>
+		<string>fuelfinder360.appspot.com</string>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

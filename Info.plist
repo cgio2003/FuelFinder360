@@ -8,7 +8,7 @@
 		<true/>
 		<key>NSExceptionDomains</key>
 		<dict>
-			<key>202.120.165.91</key>
+			<key>enter yout IP here</key>
 			<dict>
 				<key>NSIncludesSubdomains</key>
 				<true/>
@@ -24,13 +24,13 @@
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>API_KEY</key>
-		<string>AIzaSyC9CkKlp0t4-rLdsa4qaWklDhHUOEqenmc</string>
+		<string>enter key</string>
 		<key>BUNDLE_ID</key>
-		<string>giovannicastorina.FuelFinder360Test</string>
+		<string>enter bundle</string>
 		<key>GCM_SENDER_ID</key>
-		<string>886883082553</string>
+		<string>enter gcm</string>
 		<key>GOOGLE_APP_ID</key>
-		<string>1:886883082553:ios:df2c03f27d90041f8648e8</string>
+		<string>enter google app id</string>
 		<key>IS_ADS_ENABLED</key>
 		<false/>
 		<key>IS_ANALYTICS_ENABLED</key>
